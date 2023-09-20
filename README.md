@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Github...
 - 📫 Feel free to reach out to me via email at collectionsof2023@gmail.com
 - 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/abhishek-kumar-4877ba264
-- 🐦 Follow me on Twitter: twitter.com/techyatom
-
+- 🐦 Follow me on Twitter: https://x.com/Techy_atom
 <!---
 Abhishekkr0/
 Abhishekkr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
